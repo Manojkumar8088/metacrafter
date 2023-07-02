@@ -1,18 +1,11 @@
-# metacrafter
-Final-project/challenge
-Creating, minting, and burning your own custom coin on the Ethereum blockchain using Solidity.
-
-Description of the Project
-For this project, you can utilized fundamental functions and variables taught in various modules using Solidity. The primary objective was to develop a token on the Ethereum blockchain and gain proficiency in essential functions like minting and burning tokens, as well as implementing conditional statements to minimize basic errors.
-
-Running the Program
-To execute this program, you can utilize Remix, an online Solidity Integrated Development Environment (IDE). To begin, visit the Remix website at https://remix.ethereum.org/.
-
-Once you're on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). After writing the code based on the provided instructions, you can test the code using the "deploy" tab on the left-hand side. You can mint coins, check the total supply, and review balances.
-
-My Learning Experience
-I thoroughly enjoyed coding in Solidity. Initially, this concept felt unfamiliar to me, but I believe I have gained a strong understanding of the language and its concepts. I am eager to pursue further modules and courses on MetaCrafters to expand my knowledge.
 
 
+In this undertaking, we have utilized fundamental operations and variable that have educated all through the distinctive units utilizing solidity. The primary target of this endeavor is to make your symbol on ethereum blockchain. What's more, learn essential operations, for example, generating and consuming the tokens and furthermore composing conditional statements to decrease essential mistakes.
 
+Executing program
+To execute this program, you can utilize Remix, an online Solidity IDE. To begin, go to the Remix site at https://remix.ethereum.org/.
 
+Once you are on the Remix site, make another record by clicking on the "+" symbol in the left-hand sidebar. Spare the record with a .sol expansion (e.g., HelloWorld.sol). After composing the code as indicated by the guidelines we can test the code use the left tab appearing "deploy", use can produce a few coins and check the absolute stockpile and balances.
+
+My Experience
+I truly had a good time coding utilizing solidity, this idea was exceptionally unfamiliar to me, I think I comprehended the idea and language very well. I am anticipating finish more units and courses in MetaCrafters.
